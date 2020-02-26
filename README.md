@@ -1,1 +1,2 @@
-# CSCE_315_Project_3
+# Museek
+Created by Alex Pham and Donald Van Steenwyk
